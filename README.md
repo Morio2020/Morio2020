@@ -1,4 +1,4 @@
-<p>Welcome to my page! </br> I'm Morio, I am on my way to be a reliable technical expert! </p>
+Welcome to my page! </br> I'm Morio, I am on my way to be a reliable technical expert!
 
 ## Skills
 

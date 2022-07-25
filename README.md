@@ -8,7 +8,7 @@ Welcome to my page! </br> I'm Morio, I am on my way to be a reliable technical e
 ## My latest posts
 
 <ul>
-  <li><a href="How Google Chrome Browser Works(Reading Notes, in Chinese).md"><b>How Google Chrome Browser Works(Reading Notes, in Chinese)</b></a><br/><i>How the five processes works, especially the Renderer Process</i></li>
+  <li><a href="https://github.com/Morio2020/ReadingNotes/blob/main/How%20Google%20Chrome%20Browser%20Works(Reading%20Notes%2C%20in%20Chinese).md"><b>How Google Chrome Browser Works(Reading Notes, in Chinese)</b></a><br/><i>How the five processes works, especially the Renderer Process</i></li>
 </ul>
 
 

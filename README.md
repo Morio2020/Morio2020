@@ -1,3 +1,17 @@
+## Skills
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)![Redux](https://img.shields.io/badge/-Redux-00599C?style=flat-square&logo=Redux)![Nodejs](https://img.shields.io/badge/-Nodejs-white?style=flat-square&logo=Node.js)![img](https://img.shields.io/badge/-Webpack-black?style=flat-square&logo=Webpack)![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)![Unity](https://img.shields.io/badge/-Unity-black?style=flat-square&logo=Unity)![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)![pandas](https://img.shields.io/badge/-pandas-black?style=flat-square&logo=pandas)![PyTorch](https://img.shields.io/badge/-PyTorch-black?style=flat-square&logo=Pytorch)![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)![MongoDB](https://img.shields.io/badge/-MongoDB-00599C?style=flat-square&logo=MongoDB)![Neo4j](https://img.shields.io/badge/-Neo4j-00599C?style=flat-square&logo=Neo4j)
+
+## My latest posts
+
+<ul>
+  <li><a href="How Google Chrome Browser Works(Reading Notes, in Chinese).md"><b>How Google Chrome Browser Works(Reading Notes, in Chinese)</b></a><br/><i>How the five processes works, especially the Renderer Process</i></li>
+</ul>
+
+
+
+
+
 <!-- ### Hi there 👋
  -->
 <!--
@@ -14,7 +28,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Morio2020&count_private=true&show_icons=true&theme=dark" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
@@ -31,4 +45,4 @@ Here are some ideas to get you started:
 <code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linux.svg"></code>
 <code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/vim.svg"></code>
 <code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/macos.svg"></code>
-<code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/alfred.svg"></code>
+<code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/alfred.svg"></code> -->
